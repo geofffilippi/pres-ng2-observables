@@ -8,9 +8,9 @@ Slides from talk given on Feb 9, 2016 at the AngularJS in the Rocky Mountains Me
 
 >Finally we will discuss how RxJS is used to implement Angular 2. We will explore how Observables are used in change detection and ngZone, Http, Async Facade and Forms. We will also discuss how to make use of RxJS and Observables in our Angular 2 applications.
 
-[Markdown]('angular-change.md')
+[Markdown](angular-change.md)
 
-[PDF]('Angular 2 Observables.pdf')
+[PDF](Angular 2 Observables.pdf)
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
